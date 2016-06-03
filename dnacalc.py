@@ -4,3 +4,6 @@
 DNAseq ='ATGAAC'
 print ('Sequence:'+ DNAseq)
 # this makes the file executable chmod a+x dnacalc.py
+
+SeqLenght= len(DNAseq)
+print (SeqLenght)
